@@ -6,7 +6,7 @@ El proyecto permite almacenar, consultar y eliminar textos utilizando la API **L
 
 ## 🚀 Demo
 
-[Ver proyecto en GitHub Pages]
+[Ver proyecto en GitHub Pages](https://cristhianychr.github.io/localstorage-textos-js/)
 
 ## 📸 Vista previa
 
