@@ -15,7 +15,7 @@ El proyecto permite almacenar, consultar y eliminar textos utilizando la API **L
 ## 🛠️ Tecnologías utilizadas
 
 - HTML5
-- CSS3
+- Tailwind CSS
 - JavaScript
 - Web Storage API
 - LocalStorage
